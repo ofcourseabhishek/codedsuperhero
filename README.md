@@ -2,9 +2,9 @@
 - 👀 I’m interested in Artificial intelligence, ML, Backend and Data Science
 - 🌱 I’m currently learning Python, C/c++
 - 💞️ I’m looking to collaborate on LinkedIn
-- 📫 How to reach me ...www.linkedin.com/in/abhishek-rai-6b4b96330
+- 📫 How to reach me ...www.linkedin.com/in/codedsupero
 - 😄 Pronouns: ...he/him
-- 🎓 PSIT Kanpur BTech 1st year
+- 🎓 PSIT Kanpur BTech CSE 1st year
 
 <!---
 codedsuperhero/codedsuperhero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
